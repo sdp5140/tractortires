@@ -1,0 +1,9 @@
+# Video files
+*.mov
+*.mp4
+
+# OS files
+.DS_Store
+
+# Claude
+.claude/
